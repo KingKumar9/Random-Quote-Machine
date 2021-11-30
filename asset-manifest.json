@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Random-Quote-Machine/static/css/main.c7b3badb.chunk.css",
+    "main.js": "/Random-Quote-Machine/static/js/main.2f530146.chunk.js",
+    "main.js.map": "/Random-Quote-Machine/static/js/main.2f530146.chunk.js.map",
+    "runtime-main.js": "/Random-Quote-Machine/static/js/runtime-main.e029ee18.js",
+    "runtime-main.js.map": "/Random-Quote-Machine/static/js/runtime-main.e029ee18.js.map",
+    "static/js/2.4a0be2f9.chunk.js": "/Random-Quote-Machine/static/js/2.4a0be2f9.chunk.js",
+    "static/js/2.4a0be2f9.chunk.js.map": "/Random-Quote-Machine/static/js/2.4a0be2f9.chunk.js.map",
+    "static/js/3.f6fec498.chunk.js": "/Random-Quote-Machine/static/js/3.f6fec498.chunk.js",
+    "static/js/3.f6fec498.chunk.js.map": "/Random-Quote-Machine/static/js/3.f6fec498.chunk.js.map",
+    "index.html": "/Random-Quote-Machine/index.html",
+    "static/css/main.c7b3badb.chunk.css.map": "/Random-Quote-Machine/static/css/main.c7b3badb.chunk.css.map",
+    "static/js/2.4a0be2f9.chunk.js.LICENSE.txt": "/Random-Quote-Machine/static/js/2.4a0be2f9.chunk.js.LICENSE.txt",
+    "static/media/twitter-brands.7e1d72c3.svg": "/Random-Quote-Machine/static/media/twitter-brands.7e1d72c3.svg",
+    "static/media/yin-yang-solid.2aff411e.svg": "/Random-Quote-Machine/static/media/yin-yang-solid.2aff411e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e029ee18.js",
+    "static/js/2.4a0be2f9.chunk.js",
+    "static/css/main.c7b3badb.chunk.css",
+    "static/js/main.2f530146.chunk.js"
+  ]
+}
