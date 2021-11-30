@@ -1,6 +1,5 @@
 {
   "name": "my-react-app",
-  "homepage" : "https://KingKumar9.github.io/Random-Quote-Machine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
